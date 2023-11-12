@@ -1,0 +1,12 @@
+.wr-img {
+    width: 100%;
+    height: 180px;
+}
+
+.wr-img img {
+    height: 100%;
+    width: 100%;
+
+    object-fit: contain;
+    object-position: center;
+}

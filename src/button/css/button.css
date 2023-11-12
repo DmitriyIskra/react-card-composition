@@ -1,0 +1,13 @@
+.wr-button button {
+    width: 133px;
+    height: 38px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+
+    color: #ffffff;
+    border-radius: 5px;
+    border: 0;
+    background-color: #0F7FFA;
+    cursor: pointer;
+} 
